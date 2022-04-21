@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+
+body {
+	background-color: #e5e8e8;
+	color: #4e545c;
+	margin: 0;
+	font-family: 'Quicksand';
+}
+
+.back {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+    padding-bottom: 1px;
+    background-image: url(../img/background.jpg);
+    margin-top: 5%;
+    border-radius: 50%;
+}
+
+.info {
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 80px;
+    padding-top: 80px;
+    font-size: 50px;
+    display: inline;
+}
+
+#Time {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    border-radius: 50%;
+}
+
+#Text {
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+}
+
+#Clock {
+    color: white;
+    text-align: center;
+    padding-right: 15px;
+}
+
+p {
+    color: #242527;
+}
